@@ -5,13 +5,13 @@
     src="https://github-readme-stats.vercel.app/api?username=AndreIakko&theme=github_dark&show_icons=true"
   />
  
-  <br><br>
+  <br>
    <img
       alt="Logo"
       src="https://i.imgur.com/meawLQ1.png"
       width="64" height="64"
     />
-  <br><br>
+  <br>
   
   <a href="https://discord.gg/M3WhamHF">
     <img
