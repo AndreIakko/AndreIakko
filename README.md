@@ -4,8 +4,8 @@
   <br>
    <img
       alt="Logo"
-      src="https://i.imgur.com/meawLQ1.png"
-      width="64" height="64"
+      src="https://i.imgur.com/dz2yyQg.png"
+      width="256" height="256"
     />
   <br>
   
