@@ -1,10 +1,6 @@
  <p align = 'center'>
  
-  <br>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AndreIakko&theme=github_dark&show_icons=true"
-  />
- 
+
   <br>
    <img
       alt="Logo"
