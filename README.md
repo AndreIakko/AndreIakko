@@ -4,7 +4,7 @@
   <br>
    <img
       alt="Logo"
-      src="https://imgur.com/a/vkan4mo"
+      src="https://i.postimg.cc/zGdm7Ghp/sportswear-logo-creator-with-a-texturized-abstract-icon-859b-el1-3.png"
       width="256" height="256"
     />
   <br>
