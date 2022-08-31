@@ -4,7 +4,7 @@
   <br>
    <img
       alt="Logo"
-      src="https://i.imgur.com/dz2yyQg.png"
+      src="https://imgur.com/a/vkan4mo"
       width="256" height="256"
     />
   <br>
