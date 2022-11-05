@@ -15,7 +15,7 @@
       src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"
     />
   </a>
-  <a href="https://iakkoise.tebex.io/">
+  <a href="https://iakko-maps.tebex.io/">
     <img
       alt="Store"
       src="https://i.imgur.com/bjSJWiu.png"
